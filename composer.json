@@ -9,6 +9,11 @@
         "symfony/translation": "^v4.1.0",
         "symfony/console": "^v4.1.0"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "1.0.x-dev"
+        }
+    },
     "authors": [
         {
             "name": "Daniel Siepmann",

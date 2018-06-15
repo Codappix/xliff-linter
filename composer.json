@@ -6,8 +6,8 @@
     "license": ["GPL-2.0-or-later"],
     "bin": "xlifflinter",
     "require": {
-        "symfony/translation": "^v4.1.0",
-        "symfony/console": "^v4.1.0"
+        "symfony/translation": ">= v3.3.17 <= v4.1",
+        "symfony/console": ">= v3.0.0 <= v4.1"
     },
     "extra": {
         "branch-alias": {

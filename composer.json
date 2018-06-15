@@ -1,0 +1,19 @@
+{
+    "name": "codappix/xlifflinter",
+    "type": "library",
+    "description": "Codappix XLIFF linter",
+    "homepage": "https://github.com/Codappix/xliff_linter",
+    "license": ["GPL-2.0-or-later"],
+    "bin": "xlifflinter",
+    "require": {
+        "symfony/translation": "^v4.1.0",
+        "symfony/console": "^v4.1.0"
+    },
+    "authors": [
+        {
+            "name": "Daniel Siepmann",
+            "email": "coding@daniel-siepmann.de",
+            "role": "lead"
+        }
+    ]
+}

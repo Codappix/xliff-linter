@@ -1,8 +1,8 @@
 {
-    "name": "codappix/xlifflinter",
+    "name": "codappix/xliff-linter",
     "type": "library",
     "description": "Codappix XLIFF linter",
-    "homepage": "https://github.com/Codappix/xliff_linter",
+    "homepage": "https://github.com/Codappix/xliff-linter",
     "license": ["GPL-2.0-or-later"],
     "bin": "xlifflinter",
     "require": {

@@ -1,7 +1,7 @@
 CLI Wrapper around Symfonies XLIFF-linter
 =========================================
 
-Symfony provides a translation package which delivers ans XLIFF-Linter.
+Symfony provides a translation package which delivers an XLIFF-Linter.
 
 This packages provides a binary wrapper to lint xliff files using this linter.
 

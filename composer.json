@@ -5,6 +5,7 @@
     "homepage": "https://github.com/Codappix/xliff-linter",
     "license": ["GPL-2.0-or-later"],
     "bin": "xlifflinter",
+    "abandoned": true,
     "require": {
         "symfony/translation": ">= v3.3.17 <= v4.1",
         "symfony/console": ">= v3.0.0 <= v4.1"
